@@ -1,0 +1,5 @@
+node_modules
+/my-study/type-challenges/*
+test-dts
+questions
+idea/**/*
